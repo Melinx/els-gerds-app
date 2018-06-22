@@ -1,0 +1,28 @@
+.indicator-item, active {
+    list-style: none;
+    color: black;
+}
+
+
+.slider-img {
+
+opacity: 0.5;
+filter: alpha(opacity=50); 
+}
+
+.indicators {
+    margin-top: 20px;
+    position: relative;
+}
+
+.slider {
+    background-color:  white !important
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: rgb(235, 32, 116);
+}
+
+.bottomm {
+    margin-top: 300px;
+}

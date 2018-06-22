@@ -1,0 +1,50 @@
+
+.register-q {
+  font-size: 10pt;
+  font-style: normal;
+  text-decoration: underline;
+  color: #7e0d88;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+  padding-bottom: 20px;
+}
+
+.form {
+  margin-top: 100px;
+  padding: 0px;
+  border-radius: 10px;
+  margin-bottom: 100px;
+}
+
+.validate {
+  padding-top: 20px;
+  color: rgb(138, 138, 138);
+  padding-bottom: 0px;
+}
+
+
+#title {
+  background-color: rgb(235, 32, 116);
+  color: white;
+  padding: 8px;
+  margin-top: 10px;
+  border-radius: 3px;
+}
+
+
+form {
+  padding: 20px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: white
+}
+
+#username, #password {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#checkbox {
+  margin-left: 30px;
+}

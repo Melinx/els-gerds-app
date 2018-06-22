@@ -1,0 +1,28 @@
+
+.responsive-img {
+  border-radius: 5px
+}
+
+hr {
+  border-color: #ef5350;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ef5350;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.gerds {
+  color: maroon;
+}
+
+.brand-logo {
+  font-family: 'Muli', sans-serif;
+}
+
+.center-btn {
+  text-align: center;
+
+}
